@@ -1,5 +1,9 @@
 #内容简介
 
+pfm_train.csv--训练集
+
+pfm_test.csv--测试集
+
 employee.ipynb--基于XGBClassifier的训练
 
 result_first.csv--使用模型'employee.ipynb'，预测的结果
